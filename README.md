@@ -1,1 +1,1 @@
-# conhecendo git e github
+# conhecendo git e github, ajustes na configuração
